@@ -12,7 +12,7 @@
 
             "year": 2016,
             
-            "type": "Matric certificate",
+            "type": "Matric certificate"
 
             
         }
@@ -41,8 +41,7 @@
         },
         {
             "title": "Bootstrap",
-            "experience": "I learnt the basics of bootstrap using the CDN links which is CSS
-            and JS. It is a frontend feature pack for designs."
+            "experience": "I learnt the basics of bootstrap using the CDN links which is CSS and JS. It is a frontend feature pack for designs."
         },
         {
             "title": "CSS",
@@ -55,7 +54,7 @@
         {
             "title": "Electrical",
             "experience": "I worked as an electrical apprentice at the city of cape town.My contract duration was : 2019/10/01 - 2023/05/31"
-        },
+        }
     ],
     "testimonials": [
         {
@@ -67,24 +66,19 @@
         {
             "name": "Rezaar Osman",
             "position": "Colleague",
-            "quotes": "Ghamzah Samuels patience is immeasurable. He has persistent composure in the face of stress. His efficient and has meticulous work ethic as if he was born to be an engineer. Nothing, in my opinion, could prevent him from being modest. 
-            I would expect and be proud to see him in high places someday.",
+            "quotes": "Ghamzah Samuels patience is immeasurable. He has persistent composure in the face of stress. His efficient and has meticulous work ethic as if he was born to be an engineer. Nothing, in my opinion, could prevent him from being modest. I would expect and be proud to see him in high places someday.",
             "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
         },
         {
             "name": "Tashreeq Lee",
             "position": "Colleague",
-            "quotes": "Ghamzah Samuels is an excellent communicator, always willing to help out and take initiative. 
-            The energy he brings always lightens up the room and he always goes above and beyond to ensure that the job gets done and that it's done right.",
+            "quotes": "Ghamzah Samuels is an excellent communicator, always willing to help out and take initiative. The energy he brings always lightens up the room and he always goes above and beyond to ensure that the job gets done and that it's done right.",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         },
         {
             "name": "Carl James",
             "position": "Colleague",
-            "quotes": ">Ghamzah Is on of the best people I've worked with. 
-            His Developer skill are considered to be one of the top and if not he will find a way.
-             He 'pays attention to detail pays attention to detail when it comes to his work on a small and larger scale. Other than technical skills he is effective at commutations. 
-            Where ever he goes he will be a great assets.",
+            "quotes": ">Ghamzah Is on of the best people I've worked with. His Developer skill are considered to be one of the top and if not he will find a way. He 'pays attention to detail pays attention to detail when it comes to his work on a small and larger scale. Other than technical skills he is effective at commutations. Where ever he goes he will be a great assets.",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         }
     ],
