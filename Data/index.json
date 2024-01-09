@@ -1,6 +1,10 @@
 {
-    
-    "education": [
+    "jobTitle": [
+        {
+            "title": "a software developer",
+            "color": "rgb(57, 153, 0)"
+        }]
+    ,"education": [
         {
             "id": 1,
             "instutition": "High School",
