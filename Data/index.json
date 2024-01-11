@@ -23,6 +23,18 @@
         
 
             
+        },
+        {
+            "id": 3,
+            "institution": "Life Choices Academy",
+            "description": "Fullstack Developer",
+
+            "year": 2024,
+            "type":"  Fullstack developer certificate"
+            
+        
+
+            
         }
      
     ],
@@ -34,19 +46,19 @@
         },
         {
             "title": "Bootstrap",
-            "experience": "I learnt the basics of bootstrap using the CDN links which is CSS and JS. It is a frontend feature pack for designs."
+            "experience": "I learnt the basics of bootstrap at Life Choices Academy using the CDN links which is CSS and JS. It is a frontend feature pack for designs."
         },
         {
             "title": "CSS",
-            "experience": "I did a course on CSS and used it for styling my websites."
+            "experience": "I did a course on CSS at Life Choices Academy and used it for styling my websites."
         },
         {
             "title": "JavaScript",
-            "experience": "I did a course on Javascript programming language which can be used on many browsers."
+            "experience": "I did a course on Javascript programming language at Life Choices Academy which can be used on many browsers."
         },
         {
             "title": "Electrical",
-            "experience": "I worked as an electrical apprentice at the city of cape town.My contract duration was : 2019/10/01 - 2023/05/31"
+            "experience": "I worked as an electrical apprentice at the City of Cape Town.My contract duration was : 2019/10/01 - 2023/05/31"
         }
     ],
     "testimonials": [
