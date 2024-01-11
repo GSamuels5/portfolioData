@@ -103,8 +103,8 @@
         },
         {
             "name": "Calculator",
-            "description": "My calculator was created using HTML and CSS language.",
-            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "description": "My calculator was created using HTML,CSS and Javascript language.",
+            "image": "https://i.ibb.co/2kMqxvZ/Screenshot-2024-01-11-153244.png",
             "gitHub": "https://github.com/GSamuels5/Calculator.git",
             "vercel": "https://calculator-beta-beige.vercel.app/"
         },
@@ -128,6 +128,13 @@
             "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
             "gitHub": "https://github.com/GSamuels5/WebAppChallenge_1today.git",
             "netlify": "https://web-app-challenge-1today.vercel.app/"
+        },
+        {
+            "name": "To do list",
+            "description": "My to do list  was created using HTML, CSS and Javascript language.",
+            "image": "https://i.ibb.co/KmZNTZH/Screenshot-2024-01-11-154359.png",
+            "gitHub": "https://github.com/GSamuels5/To_do_list.git",
+            "netlify": "https://to-do-list-henna-kappa.vercel.app/"
         }
     ]
 }
