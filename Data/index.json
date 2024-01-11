@@ -42,23 +42,29 @@
     "skills": [
         {
             "title": "HTML",
-            "experience": "I learnt it on high school and further got introduced to it at life choices academy and used it to structure many of webpages."
+            "experience": "I learnt it on high school and further got introduced to it at life choices academy and used it to structure many of webpages.",
+            "image": "https://i.ibb.co/zFP0Frq/512px-HTML5-logo-and-wordmark-svg.png"
+            
         },
         {
             "title": "Bootstrap",
-            "experience": "I learnt the basics of bootstrap at Life Choices Academy using the CDN links which is CSS and JS. It is a frontend feature pack for designs."
+            "experience": "I learnt the basics of bootstrap at Life Choices Academy using the CDN links which is CSS and JS. It is a frontend feature pack for designs.",
+            "image": "https://i.ibb.co/M1gPtj8/download.png"
         },
         {
             "title": "CSS",
-            "experience": "I did a course on CSS at Life Choices Academy and used it for styling my websites."
+            "experience": "I did a course on CSS at Life Choices Academy and used it for styling my websites.",
+            "image": "https://i.ibb.co/021Sp5H/download-1.png"
         },
         {
             "title": "JavaScript",
-            "experience": "I did a course on Javascript programming language at Life Choices Academy which can be used on many browsers."
+            "experience": "I did a course on Javascript programming language at Life Choices Academy which can be used on many browsers.",
+            "image": "https://i.ibb.co/xms2MN4/download-3.png"
         },
         {
             "title": "Electrical",
-            "experience": "I worked as an electrical apprentice at the City of Cape Town.My contract duration was : 2019/10/01 - 2023/05/31"
+            "experience": "I worked as an electrical apprentice at the City of Cape Town.My contract duration was : 2019/10/01 - 2023/05/31",
+            "image": "https://i.ibb.co/j8yxXtY/download-4.png"
         }
     ],
     "testimonials": [
