@@ -97,7 +97,7 @@
         {
             "name": "Keyboard",
             "description": "My keyboard was created using HTML and CSS language.",
-            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "image":"https://i.ibb.co/TbjyVqX/Screenshot-2024-01-11-164936.png",
             "gitHub": "https://github.com/GSamuels5/KeyboardPro.git",
             "vercel": "https://keyboard-pro-tan.vercel.app/"
         },
@@ -111,30 +111,30 @@
         {
             "name": "Week 1 project",
             "description": "My week 1 project was created using HTML and CSS language.",
-            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
+            "image": "https://i.ibb.co/HnYXxhr/Screenshot-2024-01-11-170227.png",
             "gitHub": "https://github.com/GSamuels5/Week1_project.git",
             "vercel": "https://week1-project-gray.vercel.app/"
         },
         {
             "name": "eCommerce website",
             "description": "My eCommerce website was created using HTML and CSS language.",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "image": "https://i.ibb.co/L6pPx71/Ecommercewebsite.png",
             "gitHub": "https://github.com/GSamuels5/ecommerceWebsite.git",
             "vercel": "https://ecommerce-website-11ix.vercel.app/"
         },
         {
             "name": "Form page",
             "description": "My form page for my web app challenge was created using HTML and CSS language.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "image": "https://i.ibb.co/3TSnLMc/Screenshot-2024-01-11-170942.png",
             "gitHub": "https://github.com/GSamuels5/WebAppChallenge_1today.git",
-            "netlify": "https://web-app-challenge-1today.vercel.app/"
+            "vercel": "https://web-app-challenge-1today.vercel.app/"
         },
         {
             "name": "To do list",
             "description": "My to do list  was created using HTML, CSS and Javascript language.",
             "image": "https://i.ibb.co/KmZNTZH/Screenshot-2024-01-11-154359.png",
             "gitHub": "https://github.com/GSamuels5/To_do_list.git",
-            "netlify": "https://to-do-list-henna-kappa.vercel.app/"
+            "vercel": "https://to-do-list-henna-kappa.vercel.app/"
         }
     ]
 }
