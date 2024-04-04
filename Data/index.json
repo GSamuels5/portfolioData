@@ -79,14 +79,14 @@
     "skills": [
         {
             "title": "HTML",
-            "experience": "I learnt it on high school and further got introduced to it at Life Choices Academy and used it to structure many of webpages.",
+            "experiences": "I learnt it on high school and further got introduced to it at Life Choices Academy and used it to structure many of webpages.",
             "image": "https://iili.io/JNGnAiJ.md.png"
             
         },
       
         {
             "title": "CSS",
-            "experience": "I did a course on CSS at Life Choices Academy and used it for styling my websites.",
+            "experiences": "I did a course on CSS at Life Choices Academy and used it for styling my websites.",
             "image": "https://iili.io/JNGCQMG.md.png"
         },
      
@@ -97,17 +97,17 @@
         },
        {
             "title": "MySQL",
-            "experience": "I learnt the basics of MySQL at Life Choices Academy using it for backend development.",
+            "experiences": "I learnt the basics of MySQL at Life Choices Academy using it for backend development.",
             "image": "https://i.ibb.co/x3q9B5w/mysql.png"
         },
        {
             "title": "Node.js",
-            "experience": "I learnt the basics of Node.js at Life Choices Academy to create my backend in a few projects.",
+            "experiences": "I learnt the basics of Node.js at Life Choices Academy to create my backend in a few projects.",
             "image": "https://i.ibb.co/52JzYVP/download.png"
         },
         {
             "title": "Electrical",
-            "experience": "I worked as an electrical apprentice at the City of Cape Town. My contract duration was : 2019/10/01 - 2023/05/31",
+            "experiences": "I worked as an electrical apprentice at the City of Cape Town. My contract duration was : 2019/10/01 - 2023/05/31",
             "image": "https://i.ibb.co/j8yxXtY/download-4.png"
         }
     ],
