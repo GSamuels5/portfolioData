@@ -6,7 +6,7 @@
             "institution": "High School",
             "description": "Crestway high school",
 
-            "year": 2016,
+            "year": "2012 - 2016",
             
             "type": "Matric certificate"
 
@@ -38,30 +38,67 @@
         }
      
     ],
+ "experience": [
+        {
+            
+            "company": "Life Choices Studio ",
+            "position": "Intern",
+
+            "year": "April 2024 -currently",
+            
+            "left": ""
+
+            
+        },
+        {
+          "company": "City of Cape Town ",
+            "position": "Electrical Apprentice",
+
+            "year": "October 2019- May 2023",
+            
+            "left": "End of contract"
+        
+
+            
+        },
+        {
+    
+         "company": "Pyrotec Packmedia",
+            "position": "Packer/ Cleaner",
+
+            "year": "2017 and 2018",
+            
+            "left": "End of contract"
+        
+
+            
+        }
+     
+    ],
 
     "skills": [
         {
             "title": "HTML",
             "experience": "I learnt it on high school and further got introduced to it at Life Choices Academy and used it to structure many of webpages.",
-            "image": "https://i.ibb.co/1ffJy8J/HTML-5-Badge-Logo.png"
+            "image": "https://freeimage.host/i/JNGnAiJ"><img src="https://iili.io/JNGnAiJ.md.png"
             
         },
       
         {
             "title": "CSS",
             "experience": "I did a course on CSS at Life Choices Academy and used it for styling my websites.",
-            "image": "https://i.ibb.co/1fq7BMR/kisspng-cascading-style-sheets-logo-css3-html-javascript-5cac98c601a161-7443571115548151740067.jpg"
+            "image": "https://iili.io/JNGCQMG.md.png"
         },
      
         {
             "title": "JavaScript",
             "experience": "I did a course on Javascript programming language at Life Choices Academy which can be used on many browsers.",
-            "image": "https://i.ibb.co/SQcZDd1/kisspng-javascript-programmer-node-js-web-application-vector-markup-language-5b173fc1d0a463-92942469.jpg"
+            "image": "https://i.ibb.co/QmzRpD1/images.png"
         },
        {
             "title": "MySQL",
             "experience": "I learnt the basics of MySQL at Life Choices Academy using it for backend development.",
-            "image": "https://i.ibb.co/5MckGtY/Mysql-logo.png"
+            "image": "https://i.ibb.co/x3q9B5w/mysql.png"
         },
        {
             "title": "Node.js",
