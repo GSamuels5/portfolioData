@@ -30,7 +30,7 @@
             "description": "Fullstack Developer",
 
             "year": 2024,
-            "type":"  Fullstack developer certificate"
+            "type":"  Software Developer certificate"
             
         
 
@@ -42,28 +42,35 @@
     "skills": [
         {
             "title": "HTML",
-            "experience": "I learnt it on high school and further got introduced to it at life choices academy and used it to structure many of webpages.",
-            "image": "https://i.ibb.co/zFP0Frq/512px-HTML5-logo-and-wordmark-svg.png"
+            "experience": "I learnt it on high school and further got introduced to it at Life Choices Academy and used it to structure many of webpages.",
+            "image": "https://i.ibb.co/1ffJy8J/HTML-5-Badge-Logo.png"
             
         },
-        {
-            "title": "Bootstrap",
-            "experience": "I learnt the basics of bootstrap at Life Choices Academy using the CDN links which is CSS and JS. It is a frontend feature pack for designs.",
-            "image": "https://i.ibb.co/M1gPtj8/download.png"
-        },
+      
         {
             "title": "CSS",
             "experience": "I did a course on CSS at Life Choices Academy and used it for styling my websites.",
-            "image": "https://i.ibb.co/nkWBT2k/db15c8f3e911f21c53ddd9736ee27571-icon.png"
+            "image": "https://i.ibb.co/1fq7BMR/kisspng-cascading-style-sheets-logo-css3-html-javascript-5cac98c601a161-7443571115548151740067.jpg"
         },
+     
         {
             "title": "JavaScript",
             "experience": "I did a course on Javascript programming language at Life Choices Academy which can be used on many browsers.",
-            "image": "https://i.ibb.co/xms2MN4/download-3.png"
+            "image": "https://i.ibb.co/SQcZDd1/kisspng-javascript-programmer-node-js-web-application-vector-markup-language-5b173fc1d0a463-92942469.jpg"
+        },
+       {
+            "title": "MySQL",
+            "experience": "I learnt the basics of MySQL at Life Choices Academy using it for backend development.",
+            "image": "https://i.ibb.co/5MckGtY/Mysql-logo.png"
+        },
+       {
+            "title": "Node.js",
+            "experience": "I learnt the basics of Node.js at Life Choices Academy to create my backend in a few projects.",
+            "image": "https://i.ibb.co/52JzYVP/download.png"
         },
         {
             "title": "Electrical",
-            "experience": "I worked as an electrical apprentice at the City of Cape Town.My contract duration was : 2019/10/01 - 2023/05/31",
+            "experience": "I worked as an electrical apprentice at the City of Cape Town. My contract duration was : 2019/10/01 - 2023/05/31",
             "image": "https://i.ibb.co/j8yxXtY/download-4.png"
         }
     ],
