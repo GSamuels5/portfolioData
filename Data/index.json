@@ -151,8 +151,8 @@
     ],
     "projects":[
        {
-            "name": "Employee Management system",
-            "description": "My employee management system was created using my frontend and backend knowledge for my final project at the institution.",
+            "name": "Employee management system",
+            "description": "My employee management system was created for my final project at the institution.",
             "image": "https://iili.io/JNgS7pe.md.png",
             "gitHub": "https://github.com/GSamuels5/Capstone_project.git",
             "vercel": "https://capstone-ee11b.web.app/"
