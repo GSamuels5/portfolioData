@@ -150,6 +150,13 @@
         }
     ],
     "projects":[
+       {
+            "name": "Employee Management system",
+            "description": "My employee management system was created using my frontend and backend knowledge for my final project at the institution.",
+            "image": "https://iili.io/JNgS7pe.md.png",
+            "gitHub": "https://github.com/GSamuels5/Capstone_project.git",
+            "vercel": "https://capstone-ee11b.web.app/"
+        },
         {
             "name": "Keyboard",
             "description": "My keyboard was created using HTML and CSS language.",
@@ -170,13 +177,6 @@
             "image": "https://i.ibb.co/HnYXxhr/Screenshot-2024-01-11-170227.png",
             "gitHub": "https://github.com/GSamuels5/Week1_project.git",
             "vercel": "https://week1-project-gray.vercel.app/"
-        },
-        {
-            "name": "eCommerce website",
-            "description": "My eCommerce website was created using HTML and CSS language.",
-            "image": "https://i.ibb.co/L6pPx71/Ecommercewebsite.png",
-            "gitHub": "https://github.com/GSamuels5/ecommerceWebsite.git",
-            "vercel": "https://ecommerce-website-11ix.vercel.app/"
         },
         {
             "name": "Form page",
