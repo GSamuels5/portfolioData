@@ -111,6 +111,31 @@
             "image": "https://i.ibb.co/j8yxXtY/download-4.png"
         }
     ],
+     "soft": [
+  {
+            "softy": "Communication skills",
+            "pictures": "https://i.ibb.co/31cLWRc/chat.png"
+            
+        },
+     
+          {
+            "softy": "Time management skills",
+            "pictures": "https://i.ibb.co/fqJHYPw/event-management.png"
+            
+        },
+         {
+            "softy": "Networking",
+            "pictures": "https://i.ibb.co/5TCyWSn/networking.png"
+            
+        },
+       {
+            "softy": "Critical thinking",
+            "pictures": "https://i.ibb.co/QQFBwCk/mindset.png"
+            
+        },
+     
+    ],
+ 
     "testimonials": [
         {
             "name": "Joel Mukanya",
