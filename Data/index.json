@@ -4,10 +4,10 @@
  {
             "id": 1,
             "institution": "Life Choices Academy",
-            "description": "Fullstack Developer",
+            "description": "Full-stack Developer",
 
             "year": 2024,
-            "type":"  Software Developer certificate"
+            "type":"  Full-stack Developer certificate"
             
         
 
@@ -82,14 +82,14 @@
         {
             "title": "HTML",
             "experiences": "I learnt it on high school and further got introduced to it at Life Choices Academy and used it to structure many of webpages.",
-            "image": "https://iili.io/JNGnAiJ.md.png"
+            "image": "https://i.ibb.co/BVqYMB2/html-1.png"
             
         },
       
         {
             "title": "CSS",
             "experiences": "I did a course on CSS at Life Choices Academy and used it for styling my websites.",
-            "image": "https://iili.io/JNGCQMG.md.png"
+            "image": "https://i.ibb.co/dGNLSK5/css.png"
         },
      
         {
@@ -180,7 +180,7 @@
        {
             "name": "Employee management system",
             "description": "My employee management system was created for my final project at the institution.",
-            "image": "https://iili.io/JNgDMxV.md.png",
+            "image": "https://i.ibb.co/MRpMRys/Screenshot-2024-04-05-150507.png",
             "gitHub": "https://github.com/GSamuels5/Capstone_project.git",
             "vercel": "https://capstone-ee11b.web.app/"
         },
