@@ -79,7 +79,25 @@
     ],
 
     "skills": [
-  
+     {
+            "title": "Network Technician",
+            "experiences": "I learnt the basics of Networking on Cisco Networking Academy by doing the Network Technician Career Path Course .",
+            "image": "https://iili.io/dCqkAqG.md.png"
+        },
+       {
+            "title": "C++",
+            "experiences": "I learnt the basics of C++  on Cisco Networking Academy by doing C++ Essentials .",
+            "image": "https://i.ibb.co/Nj9ZHgp/c.png"
+        }, {
+            "title": "Python",
+            "experiences": "I learnt the basics of Python on Cisco Networking Academy by doing Python Essentials part 1.",
+            "image": "https://iili.io/J6jbZeS.md.png"
+        }
+   {
+            "title": "Electrical",
+            "experiences": "I worked as an Electrical Apprentice at the City of Cape Town. My contract duration was : 2019/10/01 - 2023/05/31",
+            "image": "https://i.ibb.co/j8yxXtY/download-4.png"
+        }
         {
             "title": "HTML",
             "experiences": "I learnt it on high school and further got introduced to it at Life Choices Academy and used it to structure many of webpages.",
@@ -107,21 +125,9 @@
             "title": "Node.js",
             "experiences": "I learnt the basics of Node.js at Life Choices Academy to create my backend in a few projects.",
             "image": "https://i.ibb.co/52JzYVP/download.png"
-        },  {
-            "title": "Python",
-            "experiences": "I learnt the basics of Python on Cisco Networking Academy by doing Python Essentials part 1.",
-            "image": "https://iili.io/J6jbZeS.md.png"
-        },
-     {
-            "title": "C++",
-            "experiences": "I learnt the basics of C++  on Cisco Networking Academy by doing C++ Essentials .",
-            "image": "https://i.ibb.co/Nj9ZHgp/c.png"
-        },
-        {
-            "title": "Electrical",
-            "experiences": "I worked as an Electrical Apprentice at the City of Cape Town. My contract duration was : 2019/10/01 - 2023/05/31",
-            "image": "https://i.ibb.co/j8yxXtY/download-4.png"
-        }
+        }, 
+   
+     
     ],
      "soft": [
   {
