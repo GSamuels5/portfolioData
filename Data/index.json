@@ -93,41 +93,33 @@
             "experiences": "I learnt the basics of Python on Cisco Networking Academy by doing Python Essentials part 1.",
             "image": "https://iili.io/J6jbZeS.md.png"
         },
-   {
-            "title": "Electrical",
-            "experiences": "I worked as an Electrical Apprentice at the City of Cape Town. My contract duration was : 2019/10/01 - 2023/05/31",
-            "image": "https://i.ibb.co/j8yxXtY/download-4.png"
-        },
-        {
+      {
+            "title": "Node.js",
+            "experiences": "I learnt the basics of Node.js at Life Choices Academy to create my backend in a few projects.",
+            "image": "https://i.ibb.co/52JzYVP/download.png"
+        },   {
+            "title": "MySQL",
+            "experiences": "I learnt the basics of MySQL at Life Choices Academy using it for backend development.",
+            "image": "https://i.ibb.co/x3q9B5w/mysql.png"
+        },  {
+            "title": "JavaScript",
+            "experiences": "I did a course on Javascript programming language at Life Choices Academy which can be used on many browsers.",
+            "image": "https://i.ibb.co/QmzRpD1/images.png"
+        }, {
+            "title": "CSS",
+            "experiences": "I did a course on CSS at Life Choices Academy and used it for styling my websites.",
+            "image": "https://i.ibb.co/dGNLSK5/css.png"
+        }, {
             "title": "HTML",
             "experiences": "I learnt it on high school and further got introduced to it at Life Choices Academy and used it to structure many of webpages.",
             "image": "https://iili.io/J6jpKFf.md.png"
             
         },
-      
-        {
-            "title": "CSS",
-            "experiences": "I did a course on CSS at Life Choices Academy and used it for styling my websites.",
-            "image": "https://i.ibb.co/dGNLSK5/css.png"
-        },
-     
-        {
-            "title": "JavaScript",
-            "experiences": "I did a course on Javascript programming language at Life Choices Academy which can be used on many browsers.",
-            "image": "https://i.ibb.co/QmzRpD1/images.png"
-        },
-       {
-            "title": "MySQL",
-            "experiences": "I learnt the basics of MySQL at Life Choices Academy using it for backend development.",
-            "image": "https://i.ibb.co/x3q9B5w/mysql.png"
-        },
-       {
-            "title": "Node.js",
-            "experiences": "I learnt the basics of Node.js at Life Choices Academy to create my backend in a few projects.",
-            "image": "https://i.ibb.co/52JzYVP/download.png"
+   {
+            "title": "Electrical",
+            "experiences": "I worked as an Electrical Apprentice at the City of Cape Town. My contract duration was : 2019/10/01 - 2023/05/31",
+            "image": "https://i.ibb.co/j8yxXtY/download-4.png"
         }
-   
-     
     ],
      "soft": [
   {
@@ -194,7 +186,7 @@
     ],
     "projects":[    {
             "name": "Weather website",
-            "description": "This team project was created using Python and the Flask framework."
+            "description": "This team project was created using Python and the Flask framework.",
             "image": "https://iili.io/dCqUPPn.md.png",
             "gitHub": "https://github.com/GSamuels5/Weather_report.git",
             "vercel": "https://weather-report-ochre.vercel.app/"
