@@ -81,12 +81,12 @@
     "skills": [
      {
             "title": "Network Technician",
-            "experiences": "I learnt the basics of Networking on Cisco Networking Academy by doing the Network Technician Career Path Course .",
+            "experiences": "I learnt the basics of Networking on Cisco Networking Academy by doing the Network Technician Career Path Course.",
             "image": "https://iili.io/dCqkAqG.md.png"
         },
        {
             "title": "C++",
-            "experiences": "I learnt the basics of C++  on Cisco Networking Academy by doing C++ Essentials .",
+            "experiences": "I learnt the basics of C++  on Cisco Networking Academy by doing C++ Essentials.",
             "image": "https://i.ibb.co/Nj9ZHgp/c.png"
         }, {
             "title": "Python",
@@ -192,7 +192,13 @@
             "profile": "https://i.ibb.co/z2wQK8r/20231009-110714.jpg"
         }
     ],
-    "projects":[
+    "projects":[    {
+            "name": "Weather website",
+            "description": "This team project was created using Python and the Flask framework."
+            "image": "https://iili.io/dCqUPPn.md.png",
+            "gitHub": "https://github.com/GSamuels5/Weather_report.git",
+            "vercel": "https://weather-report-ochre.vercel.app/"
+        },
        {
             "name": "Employee management system",
             "description": "My employee management system was created for my final project at the institution.",
@@ -214,13 +220,7 @@
             "gitHub": "https://github.com/GSamuels5/Calculator.git",
             "vercel": "https://calculator-beta-beige.vercel.app/"
         },
-        {
-            "name": "Week 1 project",
-            "description": "My week 1 project was created using HTML and CSS language.",
-            "image": "https://i.ibb.co/HnYXxhr/Screenshot-2024-01-11-170227.png",
-            "gitHub": "https://github.com/GSamuels5/Week1_project.git",
-            "vercel": "https://week1-project-gray.vercel.app/"
-        },
+    
         {
             "name": "Form page",
             "description": "My form page for my web app challenge was created using HTML and CSS language.",
