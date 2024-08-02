@@ -93,6 +93,11 @@
             "experiences": "I learnt the basics of Python on Cisco Networking Academy by doing Python Essentials part 1.",
             "image": "https://iili.io/J6jbZeS.md.png"
         },
+     {
+            "title": "Operating System Basics",
+            "experiences": "I learnt the basics of Linux on Cisco Networking Academy by doing Operating System Basics ",
+            "image": "https://iili.io/dAZ5V6l.png"
+        },
       {
             "title": "Node.js",
             "experiences": "I learnt the basics of Node.js at Life Choices Academy to create my backend in a few projects.",
