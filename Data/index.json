@@ -150,8 +150,6 @@
         }
      
     ],
-
-    ],
     "projects":[    {
             "name": "Weather website",
             "description": "This team project was created using Python and the Flask framework.",
